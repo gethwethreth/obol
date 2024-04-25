@@ -1,0 +1,84 @@
+{
+	"name": "Obol Community Numero Dos",
+	"uuid": "edbe53dd-623c-4e82-8b22-4b86f47b66dc",
+	"creator": {
+		"address": "0x05bB6645Dde96EA7D29f8EC93cFFa4Efa12fbd42",
+		"config_signature": "0x1dfd6744be3e56156804ac6254c47bf6ad50f17f93a56b3757b5cb253b16bc2a1eabff8c852db2bdc2b8aa09f0672a158827578a5da8804e7dd5ebdd38f2a7291b"
+	},
+	"version": "v1.7.0",
+	"num_validators": 1,
+	"threshold": 7,
+	"dkg_algorithm": "default",
+	"fork_version": "0x01017000",
+	"config_hash": "0x98e901603a5d22ebb72a36189dffc9833090b35410fae950fbc05d482534a3c4",
+	"timestamp": "2024-04-22T14:38:25.624Z",
+	"operators": [
+		{
+			"address": "0x05bB6645Dde96EA7D29f8EC93cFFa4Efa12fbd42",
+			"enr": "enr:-HW4QJtaJmpGmkDLzhFTmwil0-xtDWh0NI6syarFqYDozhaNRFVo3rRRstkS29x-gnBD7NVnqv8cAlUHdZkuDE0Yr3WAgmlkgnY0iXNlY3AyNTZrMaEDQn8kFD2cjFlDkQGamjhjFdruN_Nv0CdSaV6Qz8g06iY",
+			"enr_signature": "0x8238ade271491071e561e45535fab692e1082a283e17c906776081fa692b879255090d67b4138d5f19edc5af7245988d47f26148fe51cd6ed82736f7b16fd1d21b",
+			"config_signature": "0x862c284fe79235cbcc6f4693d87183295eafdc3643c1fdc7fcb4172c876d018b07a0942d7dbce43ea1fb4c1270dd7530bba5020991597aca04db8d84008e44cc1b"
+		},
+		{
+			"address": "0x589dC83D19b1f41A6d9b79ED2cc20FBaEf5902ac",
+			"enr": "enr:-HW4QPJAerGHdD2IAXXuGz3RhgXDy3V5i8Q_tQQzidCcLxN1Bt00-ih4r2r4K2-96cLCSHC2Ib0dnJGZC5DgodCi_ySAgmlkgnY0iXNlY3AyNTZrMaECvaKcDZ0AgJwbELCXhn3jmGkZI4qJBFDZsLHPNDb0Gjs",
+			"enr_signature": "0xc881aa2948679790063bdca0fdaa832b4fb839427709455f76233884f7253cb835dbde099d16efdc0376ccf2dd02f6a4288021b8057e02e809f641b3a56ea3731b",
+			"config_signature": "0xc9dbae93332bd202f0d331951a2da58707de42de6c6a6f96aa4585fa6fea3ccb0ce3c3eb3e8ebc20760f2807d014e65bbe95fc1a9b6f6ba7814c0c12f55234721c"
+		},
+		{
+			"address": "0x8e8dd2d36cB9818F24A7AB0b512927548c40C2dE",
+			"enr": "enr:-HW4QFm3jeQ89-wNiIRNsubC_pFERCJ5XKeoqmiakFbbjkfoYNc8TwK-3stOOwsaLdjUd8aCr5oI5uL9pMFpW9cExbaAgmlkgnY0iXNlY3AyNTZrMaED1NMHj4nkibVPMexc1VAVUgt4-HuE4Caw4jbBpRlGrDM",
+			"enr_signature": "0x000f7ce4b32ce1bf62113eeb90d50d1701ece278bab6d8fce91e3eb8c83b1fb86cb5e9f18485763a2936a590f654dcb5bb40e0ef49f730e0a3a51e67427ef76a1c",
+			"config_signature": "0x74cd42f5e03282c6c682b2b6c75b6eeb946a4837ced382cbe415a81ba0c059f85f3b91e931c152242693d9c20c98f0174a3f35e7e2d6f412659f735d02d7008c1b"
+		},
+		{
+			"address": "0x9e9FB475caFF9025CcBCa4837Bd05F3a8CBe8680",
+			"enr": "enr:-HW4QPjpInzRpiQ7H8JItdX4jI1OQhC-ifjfOM0BqbgjnN1qTAq80C0w6Pjyd0yQOFHwt1mJxgrkZxIYtTM8jUBWCy6AgmlkgnY0iXNlY3AyNTZrMaECrFRdw31qnTEdQVfmUbTbkBh5B9uxRux3Za94-NHvbr4",
+			"enr_signature": "0xf0437c5023e13141abad65d2543278f32129be09276b2b91c52baf0993b920c453b50b2487aed8292e83f95a34194b3b6d0009ee1f7491063d4b6c9cc51babd31b",
+			"config_signature": "0x6e04f983289f59b9be6bd3c5658503088baa0d1eed0e661d98ddf2a0bf023e075bb43b226235f217ccaba0e518a8e82aff85a515260a29dd14291b8fe98a344d1b"
+		},
+		{
+			"address": "0xC1d84f9ADeD621C73836BE2bb52c6C2062F94C25",
+			"enr": "enr:-HW4QK-O8hCJpJXljYY407D54ibB4AtONlj7gZonUCAE9vHOESLxi-4bHUzj-9rgq_bil07sgnLXGRu9iBXWWGyjTCyAgmlkgnY0iXNlY3AyNTZrMaECrr2RuzQLAxgKJS2_eYGNzpUi9NLFolphaVbjJ1UR-so",
+			"enr_signature": "0x05b154d00e16f81c73ed7ff631926ecd2b8329d053d18eb1bab963f4fa5f5bf064526f8dbc38ad0ce9dfa9c7bbbd06614863ef6c07c6fa3e6bf10df95b1b49b31c",
+			"config_signature": "0x68a212b7a0be04cb7a47f4e505560f6a37705973a796e7337219d0258693ad0f52e1c784af5958624784023dc7894a61da5d2ba95a8433214a975d1bb7c7a1691b"
+		},
+		{
+			"address": "0xccC7f9ac1D3794a6A28D08710cAAd016710208B2",
+			"enr": "enr:-HW4QMMhb4bGKMwqjn3888N_FCHexDaA9zBoTOfNJTtLq_7PfWTlZB8Kuv7MdYQaBANERi6pRlO1xKyodhDVML0A-RCAgmlkgnY0iXNlY3AyNTZrMaEDi0h9KU3VRY9iS3SJOgXF50o0Hw9a-UOVfXmD6DOl-TU",
+			"enr_signature": "0x8fbbc8f02292bebc5b015d7f7aac194c35977d22bc710c5f0615319fd6fc007752cec1d64e70b58060b5b03ae61baad0f0029dd5e8a850ecbc2b82f067e59d7d1b",
+			"config_signature": "0x2b35a92f06c593ed7fa36082b66818202692309abde3023f1d6b4f2dd0a11c3f518ceaf9af29f6237374b310fd1402a3ba0bd551a783809920b87c6d69d7fc811c"
+		},
+		{
+			"address": "0xcD7A89b51D071D894C8eA276bA48090a1Af77630",
+			"enr": "enr:-HW4QNBbOEtYE3z7qnoYILBn2sgcNw8V8Ry9MtuSrBkT89tqXHYbTCO2TP5qUwf3-o54U59c9ggDyDFHLF8lvy-0rASAgmlkgnY0iXNlY3AyNTZrMaEDsX4HH37r4RoY4K3CD8xhS6FHD4SmzgLjAMIzJKPdTrQ",
+			"enr_signature": "0xda22434c79115651fb353433bb650a87bf580899701a01a9d4029685918dc0a75d6e904148a41e9f7d0ca69300e549aff95e1b5472736498d2f87440a6c4362b1b",
+			"config_signature": "0x6a5e22569f9dc0a2360f29c8357d0f74a65b3b52fa5364ba04fc3e71dea2ab4c18b82b2e7f695936607557ef7864eec3232eb196e160bf74610d6a29739a08611b"
+		},
+		{
+			"address": "0xfdeF27eD6689082dFced701618DFD4cF9DfbAcc6",
+			"enr": "enr:-HW4QEUkGFMsx4PkrbedMwqJWA1mga7vV1CLPwJjMZ2p-eWlIMw_1KjQuKunYFQzw9NvJHYz0rs69q-Q9f9iB-c9DpmAgmlkgnY0iXNlY3AyNTZrMaEDOi62TdfY_s6Ykx33n72Yo62NITCUzPvejGbB_MyqVDo",
+			"enr_signature": "0xce97df7b9e233e91e71c534205b8ada5afa0902010c9a4c94241cfb54c1f88f72762d52b29fc08b5cdeda9a93ec9ec7e4baef2b59e9b4f7ef86840744b9a4a1d1c",
+			"config_signature": "0xc8a7c692e1ab69dd0fa3c7281100fa353027297dddb625130d3aa10cf604bd3f5566b7b04d514b1d88c2f1f9822eb812a48cca55fdcea128aca821aeaf29175d1b"
+		},
+		{
+			"address": "0x4d63af7B7c21D04024AbEcCDaAcD4479a701Cbb1",
+			"enr": "enr:-HW4QBCO_h1a1A6ShoIZc54WtCJ14yitx4vzegsrkG009uC6QHfsmKrvkxgZUL7iJNBIMvmGDAeFOQB_k24GUcNFQ3GAgmlkgnY0iXNlY3AyNTZrMaECLwdnSSOVK_FhBsSIqwWl_B6WH2LI5a8WFpZk67Orsw0",
+			"enr_signature": "0xb15c15fd5b1932a6d33539148f0b468c5ca670873801ec1c44198731a23c182f7b992f245baad6578b2dca6a5145d2f7047bfa4591900121e9747890ec6494131c",
+			"config_signature": "0x7ebbfcc3e800f07faa8252d2c122e4b1c1d4831c6418f8875197ccabfcd956783029550db84e7ba1fb3e4d0bac07771f57b4b2c84e199805c79ed1a480b4fd731c"
+		},
+		{
+			"address": "0x010DC5440ad49f9Ec0Dd325b622d9FD225944ee4",
+			"enr": "enr:-HW4QMSbgHhQiekYYfqOKSUc4hhyBZb9EGZ_Bk857zrHrTueKVhUkqhw1hGfUZg_6f6OpsND-8w_QXKKev0V7h9fuKaAgmlkgnY0iXNlY3AyNTZrMaEDNSv3_frliDoqpRYUljJI4yTQmESNrlnbWVmtHsaW3ow",
+			"enr_signature": "0x700e895b332db86c4d7e5e9ea5bc3afc25ae537dd037e28d81a1d753b67bcb416b8178151a8e3764d14be56961b060b75113aff9230676d3aff41b077b437fd71c",
+			"config_signature": "0x538ee7a884b04f54d08869bf41e840ad24dbd035aa5d86d63d9ab3aa90a7dbde183dcac9a6090f1a7967f2507ab00e4452d64df4c303c2c1dda95f05b7b44e241c"
+		}
+	],
+	"definition_hash": "0x7c658bd942f5936abfe8c75e1ffdb36e1bc7f7c8169317b5679aeb2d42c002e0",
+	"validators": [
+		{
+			"fee_recipient_address": "0x85Ef39d38248199C681cdC07CB46e5a7FD5ebD42",
+			"withdrawal_address": "0x7935669364971aC29617B2C5ba7D6e37C32D1AEB"
+		}
+	]
+}
